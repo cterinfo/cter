@@ -1,4 +1,4 @@
-# Blog Title :link: https://cterinfo.github.io/cter 
+# cter.info :link: https://cterinfo.github.io/cter 
 ### :page_facing_up: [1](https://cterinfo.github.io/cter/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 0 
