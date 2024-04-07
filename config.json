@@ -6,5 +6,6 @@
     "displayTitle":"汉文佛教大藏经电子资源",
     "homeUrl":"http://cter.info",
     "faviconUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "email":"info@cter.info"
+    "email":"info@cter.info",
+    "onePageListNum":50
 }
