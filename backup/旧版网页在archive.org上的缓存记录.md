@@ -3,10 +3,10 @@ https://web.archive.org/web/20220102062332/https://cter.info/**
 
 ![cter info-archive org](https://github.com/cterinfo/cter/assets/80736780/3f293038-8897-49cd-b318-5cf720980f44)
 
-汉文佛教大藏经电子资源 (CTER)
+### 汉文佛教大藏经电子资源 (CTER)
 [网盘资源](https://web.archive.org/web/20220102062332/https://cter.info/) - [工具书、参考书](https://web.archive.org/web/20220102062332/https://cter.info/books.html) 
 
-[网盘资源] 中国国家图书馆藏《赵城金藏》《思溪藏》以及崇宁藏、嘉兴藏、洪武南藏、山东省图书馆藏《永乐南藏》《永乐北藏》、云南省图书馆藏《元官藏》等多套资源（2021年有更新）
+**[网盘资源] 中国国家图书馆藏《赵城金藏》《思溪藏》以及崇宁藏、嘉兴藏、洪武南藏、山东省图书馆藏《永乐南藏》《永乐北藏》、云南省图书馆藏《元官藏》等多套资源（2021年有更新）**
 
 		  
 中国国家图书馆中华古籍资源库《赵城金藏》[[6](https://web.archive.org/web/20220102062332/https://cter.info/#item%2006)][[7](https://web.archive.org/web/20220102062332/https://cter.info/#item%2007)]
